@@ -1,1 +1,1 @@
-# COMP8240_Major-_Project
+# COMP8240_Major_Project
